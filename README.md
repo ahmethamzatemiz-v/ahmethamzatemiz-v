@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Im a freshman student in Bilkent University as a CS student
 
 <!--
 **ahmethamzatemiz-v/ahmethamzatemiz-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
